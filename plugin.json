@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "citizen-ai",
+  "version": "0.1.0",
+  "description": "Use your CitizenAI agent in your AI app: its email, phone, wallet, provider accounts, research tools, and cloud browser.",
+  "author": {
+    "name": "CitizenAI",
+    "url": "https://citizenagent.ai"
+  },
+  "homepage": "https://citizenagent.ai",
+  "license": "Apache-2.0"
+}
